@@ -9,7 +9,7 @@ const config = {
         host: "0.0.0.0",
         port: 80,
         storage: {
-            primaryMongoDBURI: "mongodb+srv://bhushanbadave:HPLrsvAdd6obObSE@cluster0.vflk9.mongodb.net/interview"
+            primaryMongoDBURI: "mongodb+srv://bhushanbadave:<password>@cluster0.vflk9.mongodb.net/interview"
             database:"interview"
         }
     }
